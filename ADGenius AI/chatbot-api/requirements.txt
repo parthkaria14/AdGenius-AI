@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+langchain
+transformers
+torch
+pandas
+bitsandbytes
+accelerate
